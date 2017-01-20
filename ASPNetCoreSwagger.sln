@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8286015E-D16
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDB6D63C-1843-4F48-BB70-34555CCDFD21}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ASPNETCoreSwagger", "src\ASPNETCoreSwagger\ASPNETCoreSwagger.xproj", "{08D3E912-DFFD-4C7E-9A9D-4BC67E72B7F0}"
